@@ -2,70 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdd73304-aa5f-444c-8c83-f6b1fc80e51f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ga.iml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/.idea/dict_project.iml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/pyclips/.idea/pyclips.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fitness.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/PyCharm20/options/cachedDictionary.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/PyCharm20/options/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/.idea/dictionaries/arunprasathshankar.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/NN.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/abbra.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/abbra2.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/abbra3.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/abbrev.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/baba.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/beautifulady.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/classy.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/classy2.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/clipssampla.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/clipy.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/corpus.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/csvgraph.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/diction.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/hier_dict.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/orangy.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/protovis.html" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/protovis.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/pyclipy.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/pygamey.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/sampla.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/specanalyzer.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/specfinal.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/spectree.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/spectreeclips.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/specy2.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/specy3.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/spell.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/stemmy.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/tagtree.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/tfidfclass.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/tk.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/traverse.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/tupac.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/twitspecrun.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/twittertospec.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/weby.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/writeline.py" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/pyclips/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/pyclips/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/pyclips/.idea/misc.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/pyclips/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/pyclips/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ga.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/spell.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/pyclips/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/protovis.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/diction.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/baba.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/corpus.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/classy2.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/tfidfclass.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/csvgraph.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/specfinal.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/.idea/dict_project.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/clipssampla.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/abbra3.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/specanalyzer.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/abbra.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/spectreeclips.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/abbra2.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/abbrev.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/twittertospec.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/protovis.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/spectree.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/pyclipy.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/pygamey.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/hier_dict.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/NN.py" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/pyclips/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/pyclips/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/pyclips/.idea/pyclips.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/PyCharm20/options/cachedDictionary.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/traverse.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/specy3.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/tupac.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/.idea/dictionaries/arunprasathshankar.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/sampla.py" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/pyclips/sample1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/writeline.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/orangy.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/tk.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/twitspecrun.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/PyCharm20/options/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/beautifulady.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/stemmy.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/weby.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/clipy.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/pyclips/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/specy2.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/classy.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/pyclips/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/dict_project/tagtree.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fitness.py" afterPath="$PROJECT_DIR$/fitness.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/arunprasathshankar.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/arunprasathshankar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
     </list>
     <ignored path="ga.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -90,9 +93,9 @@
       <file leaf-file-name="fitness.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fitness.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="34" selection-start="1289" selection-end="1289" vertical-scroll-proportion="0.8450704">
+            <state line="88" column="35" selection-start="3389" selection-end="3389" vertical-scroll-proportion="0.7884344">
               <folding>
-                <element signature="e#81#94#0" expanded="true" />
+                <element signature="e#94#107#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -101,7 +104,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -111,9 +114,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="5" />
     <option name="y" value="22" />
-    <option name="width" value="1440" />
-    <option name="height" value="831" />
+    <option name="width" value="1435" />
+    <option name="height" value="830" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -267,7 +271,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="831" extended-state="1" />
+    <frame x="5" y="22" width="1435" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -278,7 +282,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.49354374" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49407667" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -323,7 +327,7 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="CREATE_PATCH_EXPAND_DETAILS_DEFAULT" value="true" />
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
-    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" />
@@ -341,21 +345,14 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/fitness.py</url>
-          <line>13</line>
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/fitness.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="34" selection-start="1289" selection-end="1289" vertical-scroll-proportion="0.8450704">
+        <state line="88" column="35" selection-start="3389" selection-end="3389" vertical-scroll-proportion="0.7884344">
           <folding>
-            <element signature="e#81#94#0" expanded="true" />
+            <element signature="e#94#107#0" expanded="true" />
           </folding>
         </state>
       </provider>

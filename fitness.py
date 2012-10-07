@@ -1,5 +1,5 @@
 __author__ = 'arunprasathshankar'
-# Genetic Algorithms to simulate my name ==> 'arun'
+# Using Genetic Algorithms to simulate my name ==> 'arun'
 import random
 import sys
 
